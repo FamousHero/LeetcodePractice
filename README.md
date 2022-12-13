@@ -1,3 +1,5 @@
 # LeetcodePractice
-<!-- testing ssh -->
-<!-- one more time -->
+| # | Title | Solution |
+|---|-------|----------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/)| [link](./twoSum/)|
+| 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)| [link](./minimumFallingPathSum/)|
