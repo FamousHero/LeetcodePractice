@@ -1,6 +1,8 @@
+#include <vector>
+#include <algorithm>
 class Solution {
 public:
-    int rob(vector<int>& nums) {
+    int rob(std::vector<int>& nums) {
         /**
          * need to know if its worth more to rob curr house and 2 houses before or skip and keep the money from 
          * prev house. If we have to keep track of previous answer then its a DP/recursive problem.
@@ -8,6 +10,8 @@ public:
          * from 2 away or if its worth more to skip the current house and keep the max amount we got from the
          * previous house. Once we know which is more, update the current houses max to that amount so we know 
          * what is the best option at this point.
+         * Note: could store nums[i-1] and nums[i] in variables to avoid reading from list but since we 
+         * constantly read from list it should already be in the cache so preformance is unaffected
         */ 
 
         int ans = 0;
