@@ -1,5 +1,6 @@
 #include <string>
 #include <algorithm>
+#include <vector>
 
 class Solution {
 public:
@@ -7,8 +8,8 @@ public:
         /* DP since we need to keep track of the biggest subseq found as we interate through
          * https://youtu.be/ASoaQq66foQ?t=795
         */
-        int m=text1.size(),n=text2.size();
-        int dp[m+1][n+1];
+        const int m=text1.size(),n=text2.size();
+        std::vector<std::vector<int>> dp(m+1, std::vector<int>(n+1));
         //to find lcs one string needs to be contiguous while the other can have spacing
         for(int i=0;i<m+1;i++){
             dp[i][0]=0; //first column is for alg to work with starting letter (OOB index error without it) and base case is empty string
