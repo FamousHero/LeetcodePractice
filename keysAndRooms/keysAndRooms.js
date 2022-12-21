@@ -15,7 +15,6 @@ var canVisitAllRooms = function(rooms) {
         if(rooms.length === roomsVisited)
             return true;
         let room = stack.pop();
-        console.log(room);
         ++roomsVisited;
         visited[room] = 1;
         rooms[room].forEach((key)=>{
