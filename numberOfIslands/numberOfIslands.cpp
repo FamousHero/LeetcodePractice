@@ -1,3 +1,6 @@
+#include <vector>
+#include <set>
+#include <utility>
 class Solution {
     //DFS, when you encounter an island, check every piece of land connected to it, and
     //mark it as visited so you dont recount it. Need to check every direction since
@@ -10,7 +13,7 @@ class Solution {
      * The first 1 in row 2 would count as its own island
     */
 public:
-    int numIslands(vector<vector<char>>& grid) {
+    int numIslands(std::vector<std::vector<char>>& grid) {
         std::set<std::pair<int, int>> visited;
         int count = 0;
         for(int i = 0; i < grid.size(); ++i)
@@ -32,7 +35,7 @@ public:
         return count;
     }
     
-    void islandHelper(vector<vector<char>>& grid, int i, int j, std::set<std::pair<int,int>>& visited)
+    void islandHelper(std::vector<std::vector<char>>& grid, int i, int j, std::set<std::pair<int,int>>& visited)
     {
         if(i < 0 || i >= grid.size())
             return;
