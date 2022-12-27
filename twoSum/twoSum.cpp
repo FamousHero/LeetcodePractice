@@ -32,7 +32,8 @@ Only one valid answer exists.
 
 Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
 */
-
+#include <vector>
+#include <unordered_map>
 class Solution {
 public:
     /**
@@ -56,7 +57,7 @@ public:
      * 
      *  
     **/
-    vector<int> twoSum(vector<int>& nums, int target) {
+    std::vector<int> twoSum(std::vector<int>& nums, int target) {
         std::unordered_map<int, int> compliment;
         for(int i = 0; i < nums.size(); ++i)
         {
