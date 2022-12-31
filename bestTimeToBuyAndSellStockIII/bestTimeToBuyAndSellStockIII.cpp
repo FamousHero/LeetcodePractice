@@ -22,7 +22,7 @@ public:
             {
                 transactions[i][j] = std::max(transactions[i][j-1], (prices[j] + maxDiff));//dont do a transaction today or do one
                 maxDiff = std::max(maxDiff, (transactions[i-1][j] - prices[j]));//maxDiff is the difference between your max Profit and buying a stock
-                //the best maxDiff means the in which even after buying the days stock, you have the biggest profit 
+                //the best maxDiff means the day in which even after buying the days stock, you have the biggest profit 
             }
         }
         return transactions[2][prices.size()-1];
