@@ -12,4 +12,5 @@
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)| [link](./keysAndRooms/)|
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)| [link](./possibleBipartition/)|
 | 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)| [link](./minimumFallingPathSum/)|
+| 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)| [link](./uniquePathsIII/)|
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)| [link](./longestCommonSubsequence/)|
