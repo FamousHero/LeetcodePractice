@@ -2,6 +2,7 @@
 | # | Title | Solution |
 |---|-------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/)| [link](./twoSum/)|
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [link](./removeDuplicatesFromSortedArray/)|
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [link](./bestTimeToBuyAndSellStock/)|
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| [link](./bestTimeToBuyAndSellStockIII/)|
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/)| [link](./gasStation/)|
