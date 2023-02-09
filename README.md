@@ -2,6 +2,7 @@
 | # | Title | Solution |
 |---|-------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/)| [link](./twoSum/)|
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [link](./addTwoNumbers/)|
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [link](./removeDuplicatesFromSortedArray/)|
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/)| [link](./rotateImage/)|
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [link](./bestTimeToBuyAndSellStock/)|
