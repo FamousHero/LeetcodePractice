@@ -8,6 +8,7 @@
 | 15 | [3Sum](https://leetcode.com/problems/3sum/)| [link](./3Sum/)|
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [link](./removeNthNodeFromEndofList/)|
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [link](./mergeTwoSortedLists/)|
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [link](./mergeKSortedLists/)|
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [link](./removeDuplicatesFromSortedArray/)|
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [link](./searchInsertPosition/)|
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/)| [link](./rotateImage/)|
