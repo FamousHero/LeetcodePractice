@@ -12,6 +12,7 @@
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [link](./removeDuplicatesFromSortedArray/)|
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [link](./searchInsertPosition/)|
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/)| [link](./rotateImage/)|
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/)| [link](./addBinary/)|
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [link](./convertSortedListToBinarySearchTree/)|
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [link](./bestTimeToBuyAndSellStock/)|
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| [link](./bestTimeToBuyAndSellStockIII/)|
