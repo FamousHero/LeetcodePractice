@@ -23,7 +23,8 @@
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)| [link](./rotateArray/)|
 | 198 | [House Robber](https://leetcode.com/problems/houseRobber/)| [link](./houseRobber/)|
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)| [link](./numberOfIslands/)|
-| 206 | [Rverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [link](./reverseLinkedList/)|
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [link](./reverseLinkedList/)|
+| 206 | [Contains Duplicates](https://leetcode.com/problems/contains-duplicates/)| [link](./containsDuplicates/)|
 | 237 | [DeleteNode in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [link](./deleteNodeInALinkedList/)|
 | 309 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [link](./bestTimeToBuyAndSellStockWithCooldown/)|
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)| [link](./reverseString/)|
