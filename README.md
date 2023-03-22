@@ -39,4 +39,5 @@
 | 944 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)| [link](./minimumFallingPathSum/)|
 | 980 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted//)| [link](./deleteColumnsToMakeSorted)|
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)| [link](./longestCommonSubsequence/)|
+| 1480 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)| [link](./runningSumOf1DArray/)|
 | 2109 | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)| [link](./addingSpacesToString/)|
