@@ -26,6 +26,7 @@
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [link](./reverseLinkedList/)|
 | 206 | [Contains Duplicates](https://leetcode.com/problems/contains-duplicates/)| [link](./containsDuplicates/)|
 | 237 | [DeleteNode in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [link](./deleteNodeInALinkedList/)|
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)| [link](./firstBadVersion/)|
 | 309 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [link](./bestTimeToBuyAndSellStockWithCooldown/)|
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/)| [link](./powerOfFour/)|
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)| [link](./reverseString/)|
