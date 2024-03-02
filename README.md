@@ -2,6 +2,7 @@
 | # | Title | Solution |
 |---|-------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/)| [link](./twoSum/)|
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)[link](./longestPalindromicSubstring/)
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [link](./addTwoNumbers/)|
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [link](./containerWithMostWater/)|
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [link](./romanToInteger/)|
