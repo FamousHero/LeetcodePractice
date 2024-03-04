@@ -3,7 +3,7 @@
 |---|-------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/)| [link](./twoSum/)|
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [link](./addTwoNumbers/)|
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)[link](./longestPalindromicSubstring/)|
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[link](./longestPalindromicSubstring/)|
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [link](./containerWithMostWater/)|
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [link](./romanToInteger/)|
 | 15 | [3Sum](https://leetcode.com/problems/3sum/)| [link](./3Sum/)|
@@ -32,7 +32,6 @@
 | 309 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [link](./bestTimeToBuyAndSellStockWithCooldown/)|
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/)| [link](./powerOfFour/)|
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)| [link](./reverseString/)|
-
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)| [link](./numberofProvinces/)|
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [link](./findPivotIndex/)|
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [link](./dailyTemperatures/)|
