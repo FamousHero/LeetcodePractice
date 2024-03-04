@@ -2,8 +2,8 @@
 | # | Title | Solution |
 |---|-------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/)| [link](./twoSum/)|
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)[link](./longestPalindromicSubstring/)
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [link](./addTwoNumbers/)|
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)[link](./longestPalindromicSubstring/)|
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [link](./containerWithMostWater/)|
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [link](./romanToInteger/)|
 | 15 | [3Sum](https://leetcode.com/problems/3sum/)| [link](./3Sum/)|
@@ -45,4 +45,5 @@
 | 980 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted//)| [link](./deleteColumnsToMakeSorted)|
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)| [link](./longestCommonSubsequence/)|
 | 1480 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)| [link](./runningSumOf1DArray/)|
+| 1768 | [Merge Strings Alterantely](https://leetcode.com/problems/merge-strings-alterantely/)| [link](./mergeStringsAlternately/)|
 | 2109 | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)| [link](./addingSpacesToString/)|
