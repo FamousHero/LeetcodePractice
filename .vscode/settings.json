@@ -8,5 +8,6 @@
         "xstring": "cpp",
         "xutility": "cpp",
         "utility": "cpp"
-    }
+    },
+    "C_Cpp.default.compilerPath": "C:\\cygwin64\\bin\\g++.exe"
 }
