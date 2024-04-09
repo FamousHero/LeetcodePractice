@@ -44,5 +44,7 @@
 | 980 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted//)| [link](./deleteColumnsToMakeSorted)|
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)| [link](./longestCommonSubsequence/)|
 | 1480 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)| [link](./runningSumOf1DArray/)|
-| 1768 | [Merge Strings Alterantely](https://leetcode.com/problems/merge-strings-alterantely/)| [link](./mergeStringsAlternately/)|
+| 1641 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)| [link](./maximumNestingDepthOfTheParentheses/)|
+| 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/?envType=daily-question&envId=2024-04-08)| [link](./NumberOfStudentsUnableToEatLunch/)|
+ 1768 | [Merge Strings Alterantely](https://leetcode.com/problems/merge-strings-alterantely/)| [link](./mergeStringsAlternately/)|
 | 2109 | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)| [link](./addingSpacesToString/)|
