@@ -33,7 +33,8 @@
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/)| [link](./powerOfFour/)|
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)| [link](./reverseString/)|
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)| [link](./numberofProvinces/)|
-| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [link](./findPivotIndex/)|
+| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)| [link](./validParenthesesString/)|
+ 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [link](./findPivotIndex/)|
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [link](./dailyTemperatures/)|
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)| [link](./keysAndRooms/)|
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| [link](./middleOfTheLinkedList/)|
