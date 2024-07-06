@@ -5,7 +5,7 @@
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [link](./addTwoNumbers/)|
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[link](./longestPalindromicSubstring/)|
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[link](./stringToIntegerAtoi/)|
-| 9 | [Palidrome Number](https://leetcode.com/problems/longest-palindromic-substring/)|[link](./palidromeNumber/)|
+| 9 | [Palidrome Number](https://leetcode.com/problems/palindrome-number/)|[link](./palidromeNumber/)|
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [link](./containerWithMostWater/)|
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [link](./romanToInteger/)|
 | 15 | [3Sum](https://leetcode.com/problems/3sum/)| [link](./3Sum/)|
@@ -36,7 +36,7 @@
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/)| [link](./powerOfFour/)|
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)| [link](./reverseString/)|
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)| [link](./numberofProvinces/)|
-| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parentheses-string/)| [link](./validParenthesesString/)|
+| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)| [link](./validParenthesesString/)|
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [link](./findPivotIndex/)|
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [link](./dailyTemperatures/)|
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)| [link](./keysAndRooms/)|
@@ -52,3 +52,4 @@
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/?envType=daily-question&envId=2024-04-08)| [link](./NumberOfStudentsUnableToEatLunch/)|
 | 1768 | [Merge Strings Alterantely](https://leetcode.com/problems/merge-strings-alterantely/)| [link](./mergeStringsAlternately/)|
 | 2109 | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)| [link](./addingSpacesToString/)|
+
