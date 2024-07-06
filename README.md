@@ -21,6 +21,7 @@
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [link](./convertSortedListToBinarySearchTree/)|
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [link](./bestTimeToBuyAndSellStock/)|
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| [link](./bestTimeToBuyAndSellStockIII/)|
+| 128 | [Longest Conescutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)| [link](./longestConescutiveSequence/)|
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/)| [link](./gasStation/)|
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [link](./linkedListCycle/)|
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [link](./bestTimeToBuyAndSellStockIV/)|
@@ -36,7 +37,7 @@
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)| [link](./reverseString/)|
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)| [link](./numberofProvinces/)|
 | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)| [link](./validParenthesesString/)|
- 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [link](./findPivotIndex/)|
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [link](./findPivotIndex/)|
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [link](./dailyTemperatures/)|
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)| [link](./keysAndRooms/)|
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| [link](./middleOfTheLinkedList/)|
@@ -49,5 +50,5 @@
 | 1480 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)| [link](./runningSumOf1DArray/)|
 | 1641 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)| [link](./maximumNestingDepthOfTheParentheses/)|
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/?envType=daily-question&envId=2024-04-08)| [link](./NumberOfStudentsUnableToEatLunch/)|
- 1768 | [Merge Strings Alterantely](https://leetcode.com/problems/merge-strings-alterantely/)| [link](./mergeStringsAlternately/)|
+| 1768 | [Merge Strings Alterantely](https://leetcode.com/problems/merge-strings-alterantely/)| [link](./mergeStringsAlternately/)|
 | 2109 | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)| [link](./addingSpacesToString/)|
