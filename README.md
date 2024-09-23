@@ -14,6 +14,7 @@
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [link](./mergeKSortedLists/)|
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [link](./removeDuplicatesFromSortedArray/)|
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/)| [link](./removeElement/)|
+| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)| [link](./findTheIndexOfTheFirstOccurrenceInAString/)|
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [link](./searchInsertPosition/)|
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/)| [link](./rotateImage/)|
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/)| [link](./addBinary/)|
