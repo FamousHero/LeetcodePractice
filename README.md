@@ -5,7 +5,7 @@
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [link](./addTwoNumbers/)|
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[link](./longestPalindromicSubstring/)|
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[link](./stringToIntegerAtoi/)|
-| 9 | [Palidrome Number](https://leetcode.com/problems/palindrome-number/)|[link](./palidromeNumber/)|
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[link](./palidromeNumber/)|
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [link](./containerWithMostWater/)|
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [link](./romanToInteger/)|
 | 15 | [3Sum](https://leetcode.com/problems/3sum/)| [link](./3Sum/)|
@@ -17,13 +17,14 @@
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)| [link](./findTheIndexOfTheFirstOccurrenceInAString/)|
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [link](./searchInsertPosition/)|
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/)| [link](./rotateImage/)|
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/)| [link](./jumpGame/)|
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/)| [link](./addBinary/)|
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [link](./mergeSortedArray/)|
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/)| [link](./sameTree/)|
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [link](./convertSortedListToBinarySearchTree/)|
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [link](./bestTimeToBuyAndSellStock/)|
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| [link](./bestTimeToBuyAndSellStockIII/)|
-| 128 | [Longest Conescutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)| [link](./longestConescutiveSequence/)|
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)| [link](./longestConescutiveSequence/)|
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/)| [link](./gasStation/)|
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [link](./linkedListCycle/)|
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [link](./bestTimeToBuyAndSellStockIV/)|
