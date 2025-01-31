@@ -42,6 +42,7 @@
 | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)| [link](./validParenthesesString/)|
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [link](./findPivotIndex/)|
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [link](./dailyTemperatures/)|
+| 827 | [Making a Large Island](https://leetcode.com/problems/making-a-large-island/)| [link](./makingALargeIsland/)|
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)| [link](./keysAndRooms/)|
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| [link](./middleOfTheLinkedList/)|
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)| [link](./possibleBipartition/)|
